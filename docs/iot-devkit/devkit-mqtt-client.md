@@ -65,7 +65,7 @@ The sample application is running successfully when you see the Serial Monitor d
 
 ## How it works
 
-The sketch connects the DevKit to Wi-Fi. Once the Wi-Fi connection is successful, the sketch sends a message to the MQTT broker. After that, the sample repeatedly sends two "iot.eclipse.org" messages using QoS 0 and QoS 1, respectively.
+The sketch connects the DevKit to Wi-Fi. Once the Wi-Fi connection is successful, the sketch sends a message to the MQTT broker. After that, the sample repeatedly sends two "mqtt.eclipse.org" messages using QoS 0 and QoS 1, respectively.
 
 ## Problems and feedback
 
